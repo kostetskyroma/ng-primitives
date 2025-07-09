@@ -1,3 +1,20 @@
+## 0.60.0 (2025-07-09)
+
+### 🚀 Features
+
+- **popover:** add opened and closed event outputs to NgpPopoverTrigger ([#343](https://github.com/ng-primitives/ng-primitives/pull/343))
+
+### 🩹 Fixes
+
+- **combobox:** update z-index of dropdown to fix menu item visibility in dialog ([#348](https://github.com/ng-primitives/ng-primitives/pull/348))
+- **combobox:** scroll issue ([#350](https://github.com/ng-primitives/ng-primitives/pull/350))
+
+### ❤️ Thank You
+
+- Ashley Hunter
+- Eugene Rusakov @eurusik
+- Roman Kostetskyi @kostetskyroma
+
 ## 0.59.0 (2025-07-08)
 
 ### 🚀 Features
